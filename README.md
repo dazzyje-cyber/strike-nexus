@@ -1,1 +1,1 @@
-# STRIKE-NEXUS
+# strike-nexus
